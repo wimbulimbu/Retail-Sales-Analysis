@@ -10,19 +10,13 @@ The dataset contains 1,000 retail transactions including customer demographics, 
 
 ## Workflow
 
-Load CSV retail sales data.
-↓
-Clean CSV data using pandas.
-↓
-Save cleaned data to SQL database.
-↓
-Perform exploratory data analysis using pandas.
-↓
-Use SQL to run queries looking into customer demographics, revenue trends etc.
-↓
-Exported cleaned retail sales data as CSV.
-↓
-Use Power BI to visualise analysis.
+ - Load CSV retail sales data.
+ - Clean CSV data using pandas.
+ - Save cleaned data to SQL database.
+ - Perform exploratory data analysis using pandas.
+ - Use SQL to run queries looking into customer demographics, revenue trends etc.
+ - Exported cleaned retail sales data as CSV.
+ - Use Power BI to visualise analysis.
 
 ## Tools Used
 
